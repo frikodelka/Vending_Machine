@@ -1,4 +1,4 @@
-// Модуль 5, Юркина Мария
+// Module 5, Yurkina Marya
 
 #pragma once
 
